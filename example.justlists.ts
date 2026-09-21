@@ -130,3 +130,18 @@
     },
     "timestamp":1611147166000
 }
+{
+  "name": "My Custom Token List",
+  "timestamp": 1726960000000,
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 728126428,
+      "address": "TG3TAKmjuBG3Z5jJLxmAJH2Ct2YNsjCbAX",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tron/assets/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t/logo.png"
+    }
+  ]
+}
